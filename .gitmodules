@@ -1,0 +1,6 @@
+[submodule "coke"]
+	path = coke
+	url = https://github.com/kedixa/coke.git
+[submodule "workflow"]
+	path = workflow
+	url = https://github.com/sogou/workflow.git
